@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/video_player_menu"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/play"
+        android:icon="@drawable/play_48"
+        app:showAsAction="ifRoom"
+        android:title="Play"/>
+
+    <item android:id="@+id/pause"
+        android:icon="@drawable/pause_48"
+        app:showAsAction="ifRoom"
+        android:title="Pause"/>
+
+    <item android:id="@+id/open_gallery"
+        android:icon="@drawable/gallery_48"
+        app:showAsAction="ifRoom"
+        android:title="Open gallery"/>
+
+</menu>
