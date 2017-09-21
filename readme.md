@@ -20,7 +20,9 @@ The purpose of this project is offer a cheap DIY camera surveillance system. The
 * Android Studio + needed SDKs (for development purposes)
 
 ## 4 The future
-I'm developing the project just for fun now and then. Next big things will be
+I'm developing the project now and then just for fun, so updates might take a while.
+
+Big TODOs are
 * a good documentation 
 * finishing the Android App (propably offer a working notification system with Google Firebase)
 * offer a multiple camera support (if possible)
