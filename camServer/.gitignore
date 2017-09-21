@@ -1,0 +1,21 @@
+node_modules/*
+
+#temporary directory for images
+tmp/*
+!tmp/.gitkeep
+
+#database
+databases/*
+!databases/.gitkeep
+
+#old "save 'em if u need 'em" files
+old/*
+
+videos/*
+!videos/.gitkeep
+
+#TODO: lisää juttu, joka poistaa muut paitsi tmp
+images/tmp/*
+!images/temp/.gitkeep
+
+
