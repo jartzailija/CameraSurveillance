@@ -11,11 +11,11 @@ The purpose of this project is offer a cheap DIY camera surveillance system. The
 
 ## 3 Programmatical requirements
 ### Rpi
-* Node.js v7.7.1 =<
+* Node.js v7.7.1 <=
 * Default Debian OS
 * OpenCV and RaspiCam are needed to install separately (see RpiCam readme)
 ### Server
-* Node.js v7.7.1 =<
+* Node.js v7.7.1 <=
 ### Android
 * Android Studio + needed SDKs (for development purposes)
 
