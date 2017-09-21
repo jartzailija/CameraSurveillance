@@ -16,6 +16,6 @@ videos/*
 
 #TODO: lisää juttu, joka poistaa muut paitsi tmp
 images/tmp/*
-!images/temp/.gitkeep
+!images/tmp/.gitkeep
 
 
