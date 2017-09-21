@@ -26,6 +26,8 @@ I'm developing the project just for fun now and then. Next big things will
 * offer a multiple camera support (if possible)
 * research if is possible attach a wireless USB modem to Rpi
 * Rpi using only RAM memory (no SD card burdened) while sniffing movement
+* Move URLs to config -file (now they are hardcoded)
+* Add identifications for net interfaces
 
 If you find out some bugs, issues or you have some ideas, please raise an issue, or send a pull request.
 
