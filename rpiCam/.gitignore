@@ -3,3 +3,4 @@ node_modules/*
 #tmp directory for images
 images/*
 !images/.gitkeep
+camera/camera2.cpp
