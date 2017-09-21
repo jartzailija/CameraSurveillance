@@ -9,6 +9,7 @@ The purpose of this project is offer a cheap DIY camera surveillance system.
 
 # 3 Programmatical requirements
 ## Rpi
+*Node.js 
 ## Server
 ## Android
 
