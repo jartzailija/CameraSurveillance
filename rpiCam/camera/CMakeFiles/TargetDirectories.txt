@@ -1,0 +1,3 @@
+/home/pi/projects/camera_surveillance/camera/CMakeFiles/edit_cache.dir
+/home/pi/projects/camera_surveillance/camera/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/camera_surveillance/camera/CMakeFiles/motion_detection.dir
