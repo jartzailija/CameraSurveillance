@@ -20,13 +20,13 @@ The purpose of this project is offer a cheap DIY camera surveillance system. The
 * Android Studio + needed SDKs (for development purposes)
 
 ## 4 The future
-I'm developing the project just for fun now and then. Next big things will 
+I'm developing the project just for fun now and then. Next big things will be
 * a good documentation 
 * finishing the Android App (propably offer a working notification system with Google Firebase)
 * offer a multiple camera support (if possible)
-* research if is possible attach a wireless USB modem to Rpi
+* research if is possible to attach a wireless USB modem to Rpi (now it needs an external net connection)
 * Rpi using only RAM memory (no SD card burdened) while sniffing movement
-* Move URLs to config -file (now they are hardcoded)
+* Move URLs to config -files (now they are hardcoded)
 * Add identifications for net interfaces
 
 If you find out some bugs, issues or you have some ideas, please raise an issue, or send a pull request.
