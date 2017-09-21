@@ -28,6 +28,7 @@ I'm developing the project just for fun now and then. Next big things will be
 * Rpi using only RAM memory (no SD card burdened) while sniffing movement
 * Move URLs to config -files (now they are hardcoded)
 * Add identifications for net interfaces
+* install.sh for Rpi OpenCV & RaspiCam installation
 
 If you find out some bugs, issues or you have some ideas, please raise an issue, or send a pull request.
 
