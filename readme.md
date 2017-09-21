@@ -17,6 +17,7 @@ The purpose of this project is offer a cheap DIY camera surveillance system. The
 ### Server
 * Node.js v7.7.1 =<
 ### Android
+* Android Studio + needed SDKs (for development purposes)
 
 ## 4 The future
 I'm developing the project just for fun now and then. Next big things will 
