@@ -31,6 +31,7 @@ Big TODOs are
 * Move URLs to config -files (now they are hardcoded)
 * Add identifications for net interfaces
 * install.sh for Rpi OpenCV & RaspiCam installation
+* Edit the camera handling class to be a Node module
 
 If you find out some bugs, issues or you have some ideas, please raise an issue, or send a pull request.
 
